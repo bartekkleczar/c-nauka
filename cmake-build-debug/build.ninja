@@ -61,6 +61,12 @@ build CMakeFiles/nauka.dir/2.Constants.c.obj: C_COMPILER__nauka_unscanned_Debug 
   OBJECT_DIR = CMakeFiles\nauka.dir
   OBJECT_FILE_DIR = CMakeFiles\nauka.dir
 
+build CMakeFiles/nauka.dir/3.User-input.c.obj: C_COMPILER__nauka_unscanned_Debug C$:/Users/klecz/coding/c/nauka/3.User-input.c || cmake_object_order_depends_target_nauka
+  DEP_FILE = CMakeFiles\nauka.dir\3.User-input.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\nauka.dir
+  OBJECT_FILE_DIR = CMakeFiles\nauka.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target nauka
@@ -69,7 +75,7 @@ build CMakeFiles/nauka.dir/2.Constants.c.obj: C_COMPILER__nauka_unscanned_Debug 
 #############################################
 # Link the executable nauka.exe
 
-build nauka.exe: C_EXECUTABLE_LINKER__nauka_Debug CMakeFiles/nauka.dir/1.Variables.c.obj CMakeFiles/nauka.dir/2.Constants.c.obj
+build nauka.exe: C_EXECUTABLE_LINKER__nauka_Debug CMakeFiles/nauka.dir/1.Variables.c.obj CMakeFiles/nauka.dir/2.Constants.c.obj CMakeFiles/nauka.dir/3.User-input.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\nauka.dir
