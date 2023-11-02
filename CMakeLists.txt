@@ -3,4 +3,4 @@ project(nauka C)
 
 set(CMAKE_C_STANDARD 23)
 
-add_executable(nauka main.c)
+add_executable(nauka 1.Variables.c)
