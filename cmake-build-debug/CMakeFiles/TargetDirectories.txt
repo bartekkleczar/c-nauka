@@ -1,0 +1,3 @@
+C:/Users/klecz/coding/c/nauka/cmake-build-debug/CMakeFiles/nauka.dir
+C:/Users/klecz/coding/c/nauka/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/klecz/coding/c/nauka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
