@@ -5,4 +5,5 @@ set(CMAKE_C_STANDARD 23)
 
 add_executable(nauka 1.Variables.c
         2.Constants.c
-        3.User-input.c)
+        3.User-input.c
+        4.Circle-circumference-program.c)
