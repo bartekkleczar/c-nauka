@@ -15,4 +15,5 @@ add_executable(nauka 1.Variables.c
         10.Functions.c
         11.Return-statement.c
         12.Ternary-operator.c
-        13.Function-prototypes.c)
+        13.Function-prototypes.c
+        14.String-functions.c)
