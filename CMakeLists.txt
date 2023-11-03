@@ -7,4 +7,5 @@ add_executable(nauka 1.Variables.c
         2.Constants.c
         3.User-input.c
         4.Circle-circumference-program.c
-        5.Hypotenuse-calculator-program.c)
+        5.Hypotenuse-calculator-program.c
+        6.If-statements.c)

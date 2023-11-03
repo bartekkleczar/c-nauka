@@ -17,4 +17,4 @@ int main5(){
 
     printf("Side C: %lf", C);
     return 0;
-}3
+}
