@@ -10,4 +10,5 @@ add_executable(nauka 1.Variables.c
         5.Hypotenuse-calculator-program.c
         6.If-statements.c
         7.Switch-statements.c
-        8.Temperatore-conversion-program.c)
+        8.Temperatore-conversion-program.c
+        9.Logical-operators.c)
