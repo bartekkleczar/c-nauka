@@ -2,8 +2,8 @@
 9	93	7206614735367921	CMakeFiles/nauka.dir/3.User-input.c.obj	f5c02b586bc4b20e
 0	103	7206581907750843	CMakeFiles/nauka.dir/main.c.obj	4fb956c72c2a59cb
 2	85	7207299462282227	CMakeFiles/nauka.dir/7.Switch-statements.c.obj	e3b996d8cffae010
-86	210	7207465103071876	nauka.exe	3d0b32c690d42188
-1	112	7207468390928202	build.ninja	7439a198549b814f
+79	197	7207470526967370	nauka.exe	314283ff979d0fd9
+1	112	7207471884811189	build.ninja	7439a198549b814f
 2	83	7206601992337965	CMakeFiles/nauka.dir/1.Variables.c.obj	c3d6fb40b2fe2ff4
 11	103	7206606011145000	CMakeFiles/nauka.dir/2.Constants.c.obj	c914c63be7ead846
 2	84	7207286654469517	CMakeFiles/nauka.dir/5.Hypotenuse-calculator-program.c.obj	2a5e1d09b7000358
@@ -11,7 +11,8 @@
 9	88	7207290174942191	CMakeFiles/nauka.dir/6.If-statements.c.obj	405db3e12aba4331
 18	135	7207465013628096	CMakeFiles/nauka.dir/8.Temperatore-conversion-program.c.obj	770096c3a8c9a0af
 3	119	7207465013449130	CMakeFiles/nauka.dir/9.Logical-operators.c.obj	a7721e786339d4f7
-3	86	7207465101888563	CMakeFiles/nauka.dir/10.Functions.c.obj	156f766a2a29ab42
 2	92	7207470461452931	CMakeFiles/nauka.dir/10.Functions.c.obj	1031c21638f61f93
 2	78	7207470525830544	CMakeFiles/nauka.dir/11.Return-statement.c.obj	cdba1594ea697fe5
-79	197	7207470526967370	nauka.exe	314283ff979d0fd9
+2	83	7207476660276551	CMakeFiles/nauka.dir/11.Return-statement.c.obj	cdba1594ea697fe5
+7	86	7207476660311020	CMakeFiles/nauka.dir/12.Ternary-operator.c.obj	3d019219a78ffc30
+87	203	7207476661427988	nauka.exe	812d90222030f49c
