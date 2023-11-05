@@ -4,7 +4,7 @@
 2	80	7207479526004797	CMakeFiles/nauka.dir/12.Ternary-operator.c.obj	3d019219a78ffc30
 2	85	7207299462282227	CMakeFiles/nauka.dir/7.Switch-statements.c.obj	e3b996d8cffae010
 79	191	7207480347924414	nauka.exe	7f2e334b206296a7
-1	112	7207482084890923	build.ninja	7439a198549b814f
+1	112	7208927377863807	build.ninja	7439a198549b814f
 2	79	7207480346848921	CMakeFiles/nauka.dir/13.Function-prototypes.c.obj	761927ba91079a8e
 2	83	7206601992337965	CMakeFiles/nauka.dir/1.Variables.c.obj	c3d6fb40b2fe2ff4
 2	84	7207286654469517	CMakeFiles/nauka.dir/5.Hypotenuse-calculator-program.c.obj	2a5e1d09b7000358
@@ -15,3 +15,11 @@
 3	119	7207465013449130	CMakeFiles/nauka.dir/9.Logical-operators.c.obj	a7721e786339d4f7
 2	92	7207470461452931	CMakeFiles/nauka.dir/10.Functions.c.obj	1031c21638f61f93
 2	83	7207476660276551	CMakeFiles/nauka.dir/11.Return-statement.c.obj	cdba1594ea697fe5
+16	168	7208928434421183	CMakeFiles/nauka.dir/14.String-functions.c.obj	164c25a5ba4eab58
+2	169	7208928434421183	CMakeFiles/nauka.dir/15.For-loops.c.obj	c15bc6abeb85cc28
+10	170	7208928434431224	CMakeFiles/nauka.dir/13.Function-prototypes.c.obj	761927ba91079a8e
+170	335	7208928436041819	nauka.exe	d7b79b2271f45db2
+2	84	7208928554209160	CMakeFiles/nauka.dir/15.For-loops.c.obj	c15bc6abeb85cc28
+84	200	7208928555308082	nauka.exe	d7b79b2271f45db2
+3	83	7208928834616850	CMakeFiles/nauka.dir/15.For-loops.c.obj	c15bc6abeb85cc28
+84	192	7208928835660104	nauka.exe	d7b79b2271f45db2
