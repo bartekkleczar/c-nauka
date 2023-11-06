@@ -18,4 +18,7 @@ add_executable(nauka 1.Variables.c
         13.Function-prototypes.c
         14.String-functions.c
         15.For-loops.c
-        16.While-loops.c)
+        16.While-loops.c
+        algorytmy/Algorytm-eukulidesa.c
+        algorytmy/Miejsca-zerowe-funkcji.c
+)

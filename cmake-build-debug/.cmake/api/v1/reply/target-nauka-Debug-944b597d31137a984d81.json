@@ -67,7 +67,9 @@
 				12,
 				13,
 				14,
-				15
+				15,
+				16,
+				17
 			]
 		}
 	],
@@ -119,7 +121,9 @@
 				12,
 				13,
 				14,
-				15
+				15,
+				16,
+				17
 			]
 		}
 	],
@@ -219,6 +223,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "16.While-loops.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "algorytmy/Algorytm-eukulidesa.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "algorytmy/Miejsca-zerowe-funkcji.c",
 			"sourceGroupIndex" : 0
 		}
 	],
