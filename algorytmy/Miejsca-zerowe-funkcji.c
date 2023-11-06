@@ -14,9 +14,10 @@ void funkcjaKwadratowa(int a, int b, int c){
     printf("x1 wynosi %f | x2 wynosi %f", x1, x2);
 }
 
+/*
 int main(){
 
     funkcjaKwadratowa(-2, 3, 4);
 
     return 0;
-}
+}*/
