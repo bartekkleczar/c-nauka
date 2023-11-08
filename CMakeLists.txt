@@ -22,4 +22,5 @@ add_executable(nauka 1.Variables.c
         algorytmy/Algorytm-eukulidesa.c
         algorytmy/Miejsca-zerowe-funkcji.c
         17.Arrays.c
+        18.2D-arrays.c
 )
