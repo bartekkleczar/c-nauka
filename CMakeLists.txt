@@ -26,4 +26,5 @@ add_executable(nauka 1.Variables.c
         19.Array-of-strings.c
         20.Sort-an-array.c
         21.Structs.c
+        22.Typedef.c
 )
