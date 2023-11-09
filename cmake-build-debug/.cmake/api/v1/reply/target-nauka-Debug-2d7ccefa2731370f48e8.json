@@ -73,7 +73,8 @@
 				18,
 				19,
 				20,
-				21
+				21,
+				22
 			]
 		}
 	],
@@ -131,7 +132,8 @@
 				18,
 				19,
 				20,
-				21
+				21,
+				22
 			]
 		}
 	],
@@ -267,6 +269,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "20.Sort-an-array.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "21.Structs.c",
 			"sourceGroupIndex" : 0
 		}
 	],
