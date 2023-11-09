@@ -4,8 +4,8 @@
 0	103	7206581907750843	CMakeFiles/nauka.dir/main.c.obj	4fb956c72c2a59cb
 2	80	7207479526004797	CMakeFiles/nauka.dir/12.Ternary-operator.c.obj	3d019219a78ffc30
 2	85	7207299462282227	CMakeFiles/nauka.dir/7.Switch-statements.c.obj	e3b996d8cffae010
-82	202	7211795650302096	nauka.exe	bd83f747f2a16b9c
-1	158	7212521657775067	build.ninja	7439a198549b814f
+88	227	7212521680364267	nauka.exe	12993728d8846187
+1	160	7212523029851125	build.ninja	7439a198549b814f
 2	83	7206601992337965	CMakeFiles/nauka.dir/1.Variables.c.obj	c3d6fb40b2fe2ff4
 10	170	7208928434431224	CMakeFiles/nauka.dir/13.Function-prototypes.c.obj	761927ba91079a8e
 2	84	7207286654469517	CMakeFiles/nauka.dir/5.Hypotenuse-calculator-program.c.obj	2a5e1d09b7000358
@@ -21,8 +21,10 @@
 16	168	7208928434421183	CMakeFiles/nauka.dir/14.String-functions.c.obj	164c25a5ba4eab58
 2	180	7209859120714822	CMakeFiles/nauka.dir/16.While-loops.c.obj	c9065988255573c4
 6	85	7209879902799143	CMakeFiles/nauka.dir/algorytmy/Algorytm-eukulidesa.c.obj	5773121475c20185
-3	82	7211795649153550	CMakeFiles/nauka.dir/18.2D-arrays.c.obj	81ffe943b3fa162f
-1	160	7212521657775067	build.ninja	7439a198549b814f
 10	128	7212521659388826	CMakeFiles/nauka.dir/18.2D-arrays.c.obj	81ffe943b3fa162f
 4	88	7212521679036221	CMakeFiles/nauka.dir/19.Array-of-strings.c.obj	a705faa3a2c79377
-88	227	7212521680364267	nauka.exe	12993728d8846187
+2	86	7212526699100502	CMakeFiles/nauka.dir/20.Sort-an-array.c.obj	4dd4401ec0d0ec4b
+9	87	7212526699100502	CMakeFiles/nauka.dir/19.Array-of-strings.c.obj	a705faa3a2c79377
+87	207	7212526700253757	nauka.exe	4ef962b0b54b16e8
+3	82	7212526905094171	CMakeFiles/nauka.dir/20.Sort-an-array.c.obj	4dd4401ec0d0ec4b
+83	194	7212526906150957	nauka.exe	4ef962b0b54b16e8
