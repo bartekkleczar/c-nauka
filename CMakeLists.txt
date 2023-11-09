@@ -23,4 +23,5 @@ add_executable(nauka 1.Variables.c
         algorytmy/Miejsca-zerowe-funkcji.c
         17.Arrays.c
         18.2D-arrays.c
+        19.Array-of-strings.c
 )
