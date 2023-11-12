@@ -6,9 +6,9 @@ typedef struct{
     char content[50];
 }record;
 
-void addRecord(record database[], int *databaseCount, record record){
+void addRecord(record database[100][1], int *databaseCount, record record){
     record.id = *databaseCount;
-    database[*databaseCount] = record;
+    database[*databaseCount][0] = record;
     *databaseCount += 1;
 }
 
@@ -16,20 +16,20 @@ void removeRecord(record database[], record record){
 
 }
 
-void editRecord(record database[], record record, char *newContent){
-
+void editRecord(record database[100][1], record record, char *newContent){
+    strcpy(database[record.id][0].content, newContent);
 }
 
-void printDatabase(record database[], int databaseCount){
+void printDatabase(record database[100][1], int databaseCount){
     for(int i = 0; i < databaseCount; i++){
-        printf("\n %d", database[i].id);
-        printf("\n %s", database[i].content);
+        printf("\n %d", database[i][0].id);
+        printf("\n %s", database[i][0].content);
     }
 }
 
 int main(){
 
-    record database[100];
+    record database[100][1];
 
     int databaseCount = 0;
     int *pDatabaseCount = NULL;
@@ -43,7 +43,7 @@ int main(){
 
     printDatabase(database, databaseCount);
 
-    strcpy(database[0].content, "zmiana test");
+    editRecord(database, test1, "zmiana 2");
 
     printf("\n");
     printDatabase(database, databaseCount);
