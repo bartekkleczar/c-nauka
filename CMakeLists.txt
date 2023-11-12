@@ -30,4 +30,5 @@ add_executable(nauka 1.Variables.c
         23.Enums.c
         24.Random-numbers.c
         25.Number-guessing-game.c
+        26.Memory-addresses.c
 )
