@@ -34,4 +34,5 @@ add_executable(nauka 1.Variables.c
         27.Pointers.c
         28.Writing-files.c
         projekty/Record-database.c
+        29.Reading-files.c
 )
